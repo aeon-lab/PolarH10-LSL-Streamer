@@ -4,12 +4,12 @@ A Kivy-based GUI application for streaming Polar H10 sensor data (ECG, HR, RR-in
 ## Overview
 
 This application creates a unified LSL outlet with six channels from Polar H10 data:
-- **Channel 0**: ECG (µV) at 130 Hz
-- **Channel 1**: Heart Rate (bpm) - event-driven
-- **Channel 2**: RR-interval (ms) - event-driven  
-- **Channel 3**: Accelerometer X (mG) at 52 Hz
-- **Channel 4**: Accelerometer Y (mG) at 52 Hz
-- **Channel 5**: Accelerometer Z (mG) at 52 Hz
+- **Channel 0**: ECG (µV)
+- **Channel 1**: Heart Rate (bpm)
+- **Channel 2**: RR-interval (ms) 
+- **Channel 3**: Accelerometer X (mG)
+- **Channel 4**: Accelerometer Y (mG) 
+- **Channel 5**: Accelerometer Z (mG)
 
 ## Version History
 
