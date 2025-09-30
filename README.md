@@ -19,7 +19,7 @@ This application creates a unified LSL outlet with six channels from Polar H10 d
 
 ### Original Version
 - **Polar GUI_Original.py**: Original version by [markspan](https://github.com/markspan/PolarBand2lsl/) from the [PolarBand2lsl](https://github.com/markspan/PolarBand2lsl/) repository
-- 
+
 ## Key Features
 
 - **Real-time Data Streaming**: Streams multiple data types simultaneously through a single LSL outlet
