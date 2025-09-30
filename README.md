@@ -14,7 +14,7 @@ This application creates a unified LSL outlet with six channels from Polar H10 d
 ## Version History
 
 ### AEON Lab Modifications
-- **PolarGUIv3_AEON_MR&LA.py**: Latest version with both Luis Alarcon's modifications and compatibility fixes for AEON lab's Realtime LSL Dashboard by Md Mijanur Rahman
+- **PolarGUIv3_AEON_MR&LA.py**: Latest version with Md Mijanur Rahman's compatibility fixes for AEON lab's Realtime LSL Dashboard.
 - **PolarGUIv2_AEON_LA.py**: Modified by Luis Alarcon of AEON lab for internal LSL compatibility
 
 ### Original Version
