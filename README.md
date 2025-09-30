@@ -13,13 +13,13 @@ This application creates a unified LSL outlet with six channels from Polar H10 d
 
 ## Version History
 
-### Original Version
-- **Polar GUI_Original.py**: Original version by [markspan](https://github.com/markspan/PolarBand2lsl/) from the [PolarBand2lsl](https://github.com/markspan/PolarBand2lsl/) repository
-
 ### AEON Lab Modifications
 - **PolarGUIv3_AEON_MR&LA.py**: Latest version with both Luis Alarcon's modifications and compatibility fixes for AEON lab's Realtime LSL Dashboard by Md Mijanur Rahman
 - **PolarGUIv2_AEON_LA.py**: Modified by Luis Alarcon of AEON lab for internal LSL compatibility
 
+### Original Version
+- **Polar GUI_Original.py**: Original version by [markspan](https://github.com/markspan/PolarBand2lsl/) from the [PolarBand2lsl](https://github.com/markspan/PolarBand2lsl/) repository
+- 
 ## Key Features
 
 - **Real-time Data Streaming**: Streams multiple data types simultaneously through a single LSL outlet
